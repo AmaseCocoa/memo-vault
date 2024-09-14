@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e406cd49312ce5c",
+        "id": "6f305112ab92fada",
         "type": "tabs",
         "children": [
           {
-            "id": "ddaa2288f10731c0",
+            "id": "6ca46b22c2e8c034",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3eadba75a8039e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "test.md",
+                "staged": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,16 +149,53 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f3eadba75a8039e6",
+  "active": "e633cccbda71b662",
   "lastOpenFiles": [
-    "Holo/Roadmap.md",
-    "Holo/docs/無題のファイル.md",
-    "Holo/docs",
-    "Holo/v0.1.0 (Aurora) 仕様.md",
-    "v0.1.0 (Aurora) 仕様.md",
-    "Roadmap.md",
-    "Roadmap 1.md",
-    "Holo",
-    "新しいテキスト ドキュメント.txt"
+    "memo/content/index.md",
+    "memo/content",
+    "memo/tsconfig.json",
+    "memo/quartz/plugins/transformers/toc.ts",
+    "memo/quartz/plugins/transformers/syntax.ts",
+    "memo/quartz/plugins/transformers/ofm.ts",
+    "memo/quartz/plugins/transformers/roam.ts",
+    "memo/quartz/plugins/transformers/oxhugofm.ts",
+    "memo/quartz/plugins/transformers/links.ts",
+    "memo/quartz/plugins/transformers/linebreaks.ts",
+    "memo/quartz/plugins/transformers/latex.ts",
+    "memo/quartz/static/og-image.png",
+    "memo/quartz/static/icon.png",
+    "memo/docs/tags/plugin.md",
+    "memo/docs/tags/component.md",
+    "memo/docs/plugins/TagPage.md",
+    "memo/docs/plugins/TableOfContents.md",
+    "memo/docs/plugins/SyntaxHighlighting.md",
+    "memo/docs/plugins/Static.md",
+    "memo/docs/plugins/RoamFlavoredMarkdown.md",
+    "memo/docs/plugins/RemoveDrafts.md",
+    "memo/docs/plugins/OxHugoFlavoredMarkdown.md",
+    "memo/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "memo/docs/plugins/NotFoundPage.md",
+    "memo/docs/plugins/Latex.md",
+    "memo/docs/plugins/index.md",
+    "memo/docs/plugins/HardLineBreaks.md",
+    "memo/docs/plugins/GitHubFlavoredMarkdown.md",
+    "memo/docs/plugins/Frontmatter.md",
+    "memo/docs/plugins/FolderPage.md",
+    "memo/docs/plugins/ExplicitPublish.md",
+    "memo/docs/plugins/AliasRedirects.md",
+    "memo/docs/plugins/Description.md",
+    "memo/docs/plugins/CreatedModifiedDate.md",
+    "memo/docs/plugins/CrawlLinks.md",
+    "memo/docs/plugins/ContentPage.md",
+    "memo/docs/plugins/ContentIndex.md",
+    "memo/docs/plugins/ComponentResources.md",
+    "memo/docs/images/quartz transform pipeline.png",
+    "memo/docs/images/quartz layout.png",
+    "memo/docs/images/github-quick-setup.png",
+    "memo/docs/images/giscus-results.png",
+    "memo/docs/images/github-init-repo-options.png",
+    "memo/docs/images/giscus-repo.png",
+    "memo/docs/images/giscus-example.png",
+    "memo/docs/images/giscus-discussion.png"
   ]
 }
