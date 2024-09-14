@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "memo",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -149,8 +149,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "6ca46b22c2e8c034",
+  "active": "e633cccbda71b662",
   "lastOpenFiles": [
+    "memo/content/ap-httpsig.md",
     "memo/content/index.md",
     "memo/content",
     "memo/tsconfig.json",
@@ -188,7 +189,6 @@
     "memo/docs/plugins/CrawlLinks.md",
     "memo/docs/plugins/ContentPage.md",
     "memo/docs/plugins/ContentIndex.md",
-    "memo/docs/plugins/ComponentResources.md",
     "memo/docs/images/quartz transform pipeline.png",
     "memo/docs/images/quartz layout.png",
     "memo/docs/images/github-quick-setup.png",
