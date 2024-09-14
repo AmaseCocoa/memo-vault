@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "test.md",
+                "file": "memo",
                 "staged": false
               }
             }
@@ -149,7 +149,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e633cccbda71b662",
+  "active": "6ca46b22c2e8c034",
   "lastOpenFiles": [
     "memo/content/index.md",
     "memo/content",
